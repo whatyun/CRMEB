@@ -5,10 +5,26 @@
 
 <div align="center" style="font-size: 15px;">
 
-CRMEB开源商城系统（PHP版）  
+CRMEB高品质开源商城系统（PHP版）
 
 </div>
- 
+
+<div align="center" >
+    <a href='https://gitee.com/ZhongBangKeJi/CRMEB/stargazers'>
+       <img src='https://gitee.com/ZhongBangKeJi/CRMEB/badge/star.svg?theme=gvp' alt='star'></img>
+    </a>
+    <a href="http://www.crmeb.com/?from=giteephp">
+        <img src="https://img.shields.io/badge/Licence-apache2.0-green.svg?style=flat" />
+    </a>
+    <a href="http://www.crmeb.com">
+        <img src="https://img.shields.io/badge/Edition-5.6.4-blue.svg" />
+    </a>
+     <a href="https://gitee.com/ZhongBangKeJi/CRMEB/repository/archive/master.zip">
+        <img src="https://img.shields.io/badge/Download-240m-red.svg" />
+    </a>
+
+</div>
+
 <div align="center" style="font-size: 15px;">
   用心做开源，我们也很需要你的鼓励！右上角Star🌟，等你点亮
 </div>
@@ -16,17 +32,20 @@ CRMEB开源商城系统（PHP版）
 
 ####
 
+<div align="center">
+
+[![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=flat&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff)](https://zread.ai/crmeb/CRMEB)
+
+</div>
 
 <div align="center">
 
-
-[官网](https://www.crmeb.com/) |
-[在线体验](http://v4.crmeb.net/admin/) |
+[官网](https://www.crmeb.com/?from=giteephp) |
+[在线体验](http://v5.crmeb.net/admin/) |
 [帮助文档](https://doc.crmeb.com/single_open) |
-[应用市场](https://www.crmeb.com/market/) |
-[技术社区](https://www.crmeb.com/ask/thread/list/147)
-
-
+[应用市场](https://www.crmeb.com/market?from=giteephp) |
+[技术社区](https://www.crmeb.com/ask/thread/list/147) |
+[宽屏预览](https://gitee.com/ZhongBangKeJi/CRMEB/blob/master/README.md)
 
 
 </div>
@@ -60,7 +79,7 @@ CRMEB开源商城系统代码100%开源，基于 **Apache-2.0协议** 免费商�
 我们致力于打造开发者友好生态，开放源码、持续更新功能模块，并欢迎开发者提交优化建议或贡献代码。通过共享技术成果，降低行业重复造轮子成本，推动开源电商系统的可持续发展。
 
 
-🔗 <a href="https://doc.crmeb.com/single_open/open_v54/19855" target="_blank">功能列表</a> | 📩 <a href="https://github.com/crmeb/CRMEB/issues" target="_blank">提交反馈</a> | 📩 <a href="https://github.com/crmeb/CRMEB/pulls" target="_blank">提交代码</a>
+🔗 <a href="https://doc.crmeb.com/single_open/open_v54/19855" target="_blank">功能列表</a> | 📩 <a href="https://gitee.com/ZhongBangKeJi/CRMEB/issues" target="_blank">提交反馈</a> | 📩 <a href="https://gitee.com/ZhongBangKeJi/CRMEB/pulls" target="_blank">提交代码</a>
 
 
 
@@ -117,7 +136,7 @@ CRMEB开源商城系统代码100%开源，基于 **Apache-2.0协议** 免费商�
 
 ###  📱 系统演示
 
-![输入图片说明](readme/pic/contact.jpg)
+![输入图片说明](readme/pic/contact2.jpg)
 
 管理后台： http://v5.crmeb.net/admin
 
@@ -254,9 +273,9 @@ docker-compose一键部署：https://doc.crmeb.com/single_open/open_v54/20145
 ---
 
 ###  📞 CRMEB互动
-#### CRMEB开源技术交流群（扫码进群可领取开源版接口文档、产品功能清单、高清UI设计图、思维脑图！）
-![输入图片说明](readme/pic/开源群.jpg)
-#### 技术社区！找方法、提bug、看官方消息、拿活跃大奖！都在 <a href="https://www.crmeb.com/ask" target="_blank">CRMEB 技术社区</a> 应有尽有
+#### CRMEB开源技术交流群（扫码进群可领取开源版接口文档、产品功能清单、思维脑图！）
+![输入图片说明](readme/pic/开源群php.jpg)
+#### 技术社区！找方法、提bug、看官方消息、拿活跃大奖！都在 <a href="https://www.crmeb.com/ask/?from=giteephp" target="_blank">CRMEB 技术社区</a> 应有尽有
 
 
 
@@ -265,12 +284,15 @@ docker-compose一键部署：https://doc.crmeb.com/single_open/open_v54/20145
 
 ###  📕 CRMEB PRO版
 
-[![输入图片说明](readme/pic/PRO版.jpg)](https://www.crmeb.com/index/pro)
+[![输入图片说明](readme/pic/PRO版2.jpg)](https://www.crmeb.com/index/pro?from=giteephp)
 
 
 
 ###  📕 CRMEB 多商户版
 
-[![输入图片说明](readme/pic/duoshanghu.jpg)](https://www.crmeb.com/index/merchant)
+[![输入图片说明](readme/pic/duoshanghu2.jpg)](https://www.crmeb.com/index/merchant?from=giteephp)
 
+---
+
+[返回顶部 :fa-arrow-circle-up: ](https://gitee.com/ZhongBangKeJi/CRMEB#%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D)
 
